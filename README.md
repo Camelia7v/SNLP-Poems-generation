@@ -35,7 +35,6 @@ Team coordinator: Trandabăț Diana
  Our goal is to generate a plausible poem in Romanian, starting from some keywords and other parameters given by the user.
  
  # Arhitecture
- 
-  [Untitled Diagram.pdf](https://github.com/Camelia7v/SNLP-Poems-generation/files/8629760/Untitled.Diagram.pdf)
 
+![Untitled Diagram](https://user-images.githubusercontent.com/62291817/166889698-3337c92a-32e5-4906-9447-ba8c3cc4e9c1.svg)
 
